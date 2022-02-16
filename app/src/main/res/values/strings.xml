@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">App example intent with data</string>
+    <string name="nombre1">User name</string>
+    <string name="nombre2">Name</string>
+    <string name="btnenviar">Login</string>
+    <string name="btnregresar">Back</string>
+</resources>
